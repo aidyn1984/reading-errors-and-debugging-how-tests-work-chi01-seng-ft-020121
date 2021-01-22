@@ -1,3 +1,5 @@
 # Add your variables here
-first_number = 1.to_f
-secon_number = 2.to_f
+first_number = 1
+second_number = 3
+
+sum =(first_number * second_number)
